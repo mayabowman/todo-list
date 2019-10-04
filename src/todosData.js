@@ -25,3 +25,5 @@ const todosData = [
     completed: false
   },
 ]
+
+export default todosData
